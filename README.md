@@ -1,0 +1,1 @@
+# Lightcopado_config
